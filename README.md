@@ -24,20 +24,5 @@ Tenho um interesse muito grande em Jogos e RPG 🎲​🎮​
 
 
 
-# 📊​ Estatísticas
-
-
-<img
-    align="left"
-    alt="gitHubStats"
-    height = "200"
-    style="padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api?username=enthonybohm&show_icons=true&theme=dracula&locale=pt-br"
-/>
-<img
-    align="left"
-    alt="gitHubStats"
-    height = "200"
-    style="padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=enthonybohm&locale=pt-br&theme=dracula&layout=compact&custom_title=Tecnologias"
-/>
+# Obrigado pela sua atenção
+![Banner](./egrbohm@inf.ufpel.edu.br.jpg)
